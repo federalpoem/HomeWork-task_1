@@ -5,11 +5,11 @@ public class Main {
         // 1. Инициализация переменных всех типов
         byte byteVar = 120;
         short shortVar = -25000;
-        int intVar = 2_000_000_000;
-        long longVar = 9_000_000_000_000L;
+        int intVar = 2000000000;
+        long longVar = 9000000000L;
         float floatVar = 3.1415f;
         double doubleVar = 2.71828;
-        char charVar = 'Ї';
+        char charVar = 'У';
         boolean boolVar = true;
         String stringVar = "Привет";
 
